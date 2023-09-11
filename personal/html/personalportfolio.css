@@ -1,0 +1,184 @@
+header{
+    background-color: #1b1b32;
+    color: aliceblue;
+    padding: 11px;
+    display: flex;
+    font-size: 20px;
+    font-weight: bold;
+    height: 50px;
+    width: 100%;
+    top: 0;
+    overflow: auto;
+    position: fixed;
+    z-index: 2;
+}
+body{
+    margin: 0;
+}
+#navbar{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    float: right;
+    top: 0;
+}
+#navbar ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+#navbar ul li{
+    list-style: none;
+    padding-right: 10px;
+    float: right;
+}
+#navbar ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: bold;
+    float: right;
+}
+html{
+    margin: 0;
+}
+main{
+    position: relative;
+    text-align: left;
+    padding-top: 95px;
+    background-color: #1b1b32;
+}
+#contact .contacts{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#contact .contacts i{
+    font-size: 100px;
+    padding: 30px;
+    color: white;
+}
+.italics{
+    font-style: italic;
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 500px;
+}
+.italics:hover{
+    color: burlywood;
+}
+#welcome-section{
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #2b1731;
+    padding: 50vh;
+}
+#welcome-section h3:hover{
+    animation: welcome-section-hover 5s infinite linear;
+}
+@keyframes welcome-section-hover{
+    0%{
+        opacity: 1;
+        color: red;
+    }
+    25%{
+        opacity: 1;
+        color: green;
+    }
+    75%{
+        opacity: 1;
+        color: blue;
+    }
+    100%{
+        opacity: 1;
+        color: red;
+    }
+}
+#contact{
+    text-align: center;
+    color:cadetblue;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+}
+#contact .instagram{
+    background: pink;
+    border-radius: 50%;
+}
+#contact .facebook{
+    background: rgb(53, 53, 162);
+    border-radius: 100%;
+}
+#contact .twitter{
+    background: darkblue;
+    border-radius: 100%;
+}
+#contact .email{
+    background: red;
+    border-radius: 100%;
+}
+#contact .git{
+    background: black;
+    border-radius: 100%;
+}
+#projects{
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 30px;
+    font-weight: bold;
+}
+#projects .products{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px;
+    flex-direction: row;
+}
+#projects .projects img{
+    height:40px;
+    width: 50px;
+}
+footer{
+    background: rgb(200, 97, 97);
+    display: flex;
+}
+footer p{
+    color: white;
+}
+footer p:first-of-type{
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: auto;
+    text-align: start;
+}
+footer p:last-of-type{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0px;
+}
+@media screen and (max-width: 768px){
+    #navbar{
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        float: right;
+    }
+    #navbar ul{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+        padding: 0;
+        float: right;
+    }
+    #navbar ul li{
+        list-style: none;
+        padding-right: 10px;
+        float: right;
+    }
+}
