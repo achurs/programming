@@ -1,0 +1,1 @@
+this is the week zero folder of the cs50 course i am doing.
