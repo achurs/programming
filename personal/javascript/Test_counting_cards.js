@@ -28,5 +28,5 @@ function cc(card) {
   return count," Hold";
   // Only change code above this line
 }
-console.log(cc('K'));
+console.log(cc(2));
 cc(2); cc(3); cc(7); cc('K'); cc('A');
