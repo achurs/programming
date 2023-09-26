@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(red, yellow);
+
+}
+h1{
+    color: white;
+}
+button{
+    margin: 20px;
+}
+.Burger{
+    color: yellow;
+}
+.Pizza{
+    color: rgba(78, 43, 214, 0.594);
+}
