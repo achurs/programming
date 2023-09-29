@@ -1,7 +1,19 @@
 body{
-    background: linear-gradient(red, yellow);
+    background: linear-gradient(rgb(100, 210, 247), rgb(247, 247, 217));
 }
 @font-face {
     font-family: "Tensura";
-    src: url();
+    src: url(./assets/TensuraAesthetic-Regular.ttf);
+}
+.Font{
+    font-family: "Tensura";
+    color: rgb(23, 20, 125);
+    text-align: center;
+    font-size: 100px;
+}
+textarea{
+    background-color: aqua;
+    color: black;
+    font-size: larger; 
+    text-align: center;
 }

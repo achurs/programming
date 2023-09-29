@@ -17,7 +17,7 @@ class Font extends React.Component {
     render() {
         return (
             <>
-                <input type="text" placeholder='Enter text' onChange={this.update} value={this.state.input} />
+                <textarea type="text" placeholder='Enter text' onChange={this.update} value={this.state.input} />
                 <h1 className='Font'>{this.state.text}</h1>
             </>
         )
