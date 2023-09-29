@@ -1,3 +1,7 @@
 body{
     background: linear-gradient(red, yellow);
 }
+@font-face {
+    font-family: "Tensura";
+    src: url();
+}
