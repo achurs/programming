@@ -31,7 +31,7 @@ class Quote extends React.Component {
 
     render() {
         return (
-            <div className="quote-box">
+            <div className="quote-box" id="quote-box">
                 <div className="quote">
                     <p>{this.state.quote}</p>
                 </div>
