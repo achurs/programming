@@ -1,8 +1,11 @@
 import './App.css'
+import './custom.css'
 import { useState } from 'react'
 import './daily-refesh.js'
 function setCookie(name,value) {
-  document.cookie = name + "=" + value;
+  const time = 2147483647;
+  document.cookie = name + "=" + value + ";max-age=" + time;
+  //document.cookie = name + "=" + value;
 }
 function getCookie(name) {
   const cDecoded = decodeURIComponent(document.cookie);
@@ -25,6 +28,9 @@ function daycounter(date1, date2) {
 }
 function App() {
   let temp = getCookie("date");
+  if (temp === "") {
+    temp = new Date().toJSON().slice(0,10);
+  }
   const [date, setDate] = useState(temp);
   let currentdate = new Date();
   const [days, setDays] = useState(daycounter(new Date(date), currentdate));
