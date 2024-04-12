@@ -1,0 +1,30 @@
+.options * {
+  color: aqua;
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 0px;
+  padding: 5px;
+  cursor: pointer;
+}
+.nav .nav-item a span {
+  margin-right: 5px;
+}
+#sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.navbar {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  top: 0;
+  padding: 0.5rem 1rem;
+}
+.model-body .list-group .list-group-item span{
+  font-family: "poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}

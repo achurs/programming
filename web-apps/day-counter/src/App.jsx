@@ -5,7 +5,6 @@ import './daily-refesh.js'
 function setCookie(name,value) {
   const time = 2147483647;
   document.cookie = name + "=" + value + ";max-age=" + time;
-  //document.cookie = name + "=" + value;
 }
 function getCookie(name) {
   const cDecoded = decodeURIComponent(document.cookie);
