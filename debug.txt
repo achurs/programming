@@ -1,0 +1,582 @@
+<section aria-busy="false" aria-label="OpenCourseWare Search Results" role="feed">
+ <article aria-labelledby="search-result-0-title" aria-posinset="1" aria-setsize="-1" tabindex="0">
+  <div class="card learning-resource-card list-view">
+   <div class="card-contents">
+    <div class="lr-info search-result has-min-height">
+     <div class="lr-row resource-header">
+      <div class="resource-type">
+       9.13 | Undergraduate
+      </div>
+     </div>
+     <div class="lr-row course-title">
+      <a class="w-100" href="/courses/9-13-the-human-brain-spring-2019/">
+       <div>
+        <span id="search-result-0-title">
+         The Human Brain
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem">
+        <div class="content">
+         <a href="/search/?q=%22Prof.%20Nancy%20Kanwisher%22">
+          Prof. Nancy Kanwisher
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem topics-list">
+        <div class="content">
+         <a class="topic-link" href="/search/?t=Science">
+          Science
+         </a>
+         <a class="topic-link" href="/search/?t=Health%20and%20Medicine">
+          Health and Medicine
+         </a>
+         <a class="topic-link" href="/search/?t=Biology">
+          Biology
+         </a>
+         <a class="more" href="/courses/9-13-the-human-brain-spring-2019/">
+          + 3 more
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="cover-image">
+     <a href="/courses/9-13-the-human-brain-spring-2019/">
+      <img alt="" height="130" src="/courses/9-13-the-human-brain-spring-2019/6a08eddd73159f17c840c47b8e052a02_MIT9_13S19.jpg"/>
+     </a>
+    </div>
+   </div>
+  </div>
+ </article>
+ <article aria-labelledby="search-result-1-title" aria-posinset="2" aria-setsize="-1" tabindex="0">
+  <div class="card learning-resource-card list-view">
+   <div class="card-contents">
+    <div class="lr-info search-result has-min-height">
+     <div class="lr-row resource-header">
+      <div class="resource-type">
+       6.011 | Undergraduate
+      </div>
+     </div>
+     <div class="lr-row course-title">
+      <a class="w-100" href="/courses/6-011-signals-systems-and-inference-spring-2018/">
+       <div>
+        <span id="search-result-1-title">
+         Signals, Systems and Inference
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem">
+        <div class="content">
+         <a href="/search/?q=%22Prof.%20Peter%20Hagelstein%22">
+          Prof. Peter Hagelstein
+         </a>
+         <a href="/search/?q=%22Prof.%20Alan%20V.%20Oppenheim%22">
+          Prof. Alan V. Oppenheim
+         </a>
+         <a href="/search/?q=%22Prof.%20George%20Verghese%22">
+          Prof. George Verghese
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem topics-list">
+        <div class="content">
+         <a class="topic-link" href="/search/?t=Engineering">
+          Engineering
+         </a>
+         <a class="topic-link" href="/search/?t=Electrical%20Engineering">
+          Electrical Engineering
+         </a>
+         <a class="topic-link" href="/search/?t=Signal%20Processing">
+          Signal Processing
+         </a>
+         <a class="more" href="/courses/6-011-signals-systems-and-inference-spring-2018/">
+          + 2 more
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="cover-image">
+     <a href="/courses/6-011-signals-systems-and-inference-spring-2018/">
+      <img alt="" height="130" src="/courses/6-011-signals-systems-and-inference-spring-2018/fbc7ad3f34645a629b640a8b078f750c_6-011s18.jpg"/>
+     </a>
+    </div>
+   </div>
+  </div>
+ </article>
+ <article aria-labelledby="search-result-2-title" aria-posinset="3" aria-setsize="-1" tabindex="0">
+  <div class="card learning-resource-card list-view">
+   <div class="card-contents">
+    <div class="lr-info search-result has-min-height">
+     <div class="lr-row resource-header">
+      <div class="resource-type">
+       6.720J | Graduate
+      </div>
+     </div>
+     <div class="lr-row course-title">
+      <a class="w-100" href="/courses/6-720j-integrated-microelectronic-devices-spring-2007/">
+       <div>
+        <span id="search-result-2-title">
+         Integrated Microelectronic Devices
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem">
+        <div class="content">
+         <a href="/search/?q=%22Prof.%20Jes%C3%BAs%20del%20Alamo%22">
+          Prof. Jesús del Alamo
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem topics-list">
+        <div class="content">
+         <a class="topic-link" href="/search/?t=Engineering">
+          Engineering
+         </a>
+         <a class="topic-link" href="/search/?t=Science">
+          Science
+         </a>
+         <a class="topic-link" href="/search/?t=Physics">
+          Physics
+         </a>
+         <a class="more" href="/courses/6-720j-integrated-microelectronic-devices-spring-2007/">
+          + 6 more
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="cover-image">
+     <a href="/courses/6-720j-integrated-microelectronic-devices-spring-2007/">
+      <img alt="" height="130" src="/courses/6-720j-integrated-microelectronic-devices-spring-2007/19adb835b481d4b8978e03d5ace7eedf_6-720js07.jpg"/>
+     </a>
+    </div>
+   </div>
+  </div>
+ </article>
+ <article aria-labelledby="search-result-3-title" aria-posinset="4" aria-setsize="-1" tabindex="0">
+  <div class="card learning-resource-card list-view">
+   <div class="card-contents">
+    <div class="lr-info search-result has-min-height">
+     <div class="lr-row resource-header">
+      <div class="resource-type">
+       6.450 | Graduate
+      </div>
+     </div>
+     <div class="lr-row course-title">
+      <a class="w-100" href="/courses/6-450-principles-of-digital-communication-i-fall-2009/">
+       <div>
+        <span id="search-result-3-title">
+         Principles of Digital Communication I
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem">
+        <div class="content">
+         <a href="/search/?q=%22Soheil%20Feizi-Khankandi%22">
+          Soheil Feizi-Khankandi
+         </a>
+         <a href="/search/?q=%22Prof.%20Muriel%20M%C3%A9dard%22">
+          Prof. Muriel Médard
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem topics-list">
+        <div class="content">
+         <a class="topic-link" href="/search/?t=Engineering">
+          Engineering
+         </a>
+         <a class="topic-link" href="/search/?t=Electrical%20Engineering">
+          Electrical Engineering
+         </a>
+         <a class="topic-link" href="/search/?t=Telecommunications">
+          Telecommunications
+         </a>
+         <a class="more" href="/courses/6-450-principles-of-digital-communication-i-fall-2009/">
+          + 1 more
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="cover-image">
+     <a href="/courses/6-450-principles-of-digital-communication-i-fall-2009/">
+      <img alt="" height="130" src="/courses/6-450-principles-of-digital-communication-i-fall-2009/63446f600f68d7b6d34a616b025bb9c9_6-450f09.jpg"/>
+     </a>
+    </div>
+   </div>
+  </div>
+ </article>
+ <article aria-labelledby="search-result-4-title" aria-posinset="5" aria-setsize="-1" tabindex="0">
+  <div class="card learning-resource-card list-view">
+   <div class="card-contents">
+    <div class="lr-info search-result has-min-height">
+     <div class="lr-row resource-header">
+      <div class="resource-type">
+       6.763 | Graduate
+      </div>
+     </div>
+     <div class="lr-row course-title">
+      <a class="w-100" href="/courses/6-763-applied-superconductivity-fall-2005/">
+       <div>
+        <span id="search-result-4-title">
+         Applied Superconductivity
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem">
+        <div class="content">
+         <a href="/search/?q=%22Prof.%20Terry%20Orlando%22">
+          Prof. Terry Orlando
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem topics-list">
+        <div class="content">
+         <a class="topic-link" href="/search/?t=Engineering">
+          Engineering
+         </a>
+         <a class="topic-link" href="/search/?t=Science">
+          Science
+         </a>
+         <a class="topic-link" href="/search/?t=Physics">
+          Physics
+         </a>
+         <a class="more" href="/courses/6-763-applied-superconductivity-fall-2005/">
+          + 5 more
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="cover-image">
+     <a href="/courses/6-763-applied-superconductivity-fall-2005/">
+      <img alt="" height="130" src="/courses/6-763-applied-superconductivity-fall-2005/6164064725932e5c829143c8052be490_6-763f05.jpg"/>
+     </a>
+    </div>
+   </div>
+  </div>
+ </article>
+ <article aria-labelledby="search-result-5-title" aria-posinset="6" aria-setsize="-1" tabindex="0">
+  <div class="card learning-resource-card list-view">
+   <div class="card-contents">
+    <div class="lr-info search-result has-min-height">
+     <div class="lr-row resource-header">
+      <div class="resource-type">
+       12.803 | Graduate
+      </div>
+     </div>
+     <div class="lr-row course-title">
+      <a class="w-100" href="/courses/12-803-quasi-balanced-circulations-in-oceans-and-atmospheres-fall-2009/">
+       <div>
+        <span id="search-result-5-title">
+         Quasi-Balanced Circulations in Oceans and Atmospheres
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem">
+        <div class="content">
+         <a href="/search/?q=%22Prof.%20Kerry%20Emanuel%22">
+          Prof. Kerry Emanuel
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem topics-list">
+        <div class="content">
+         <a class="topic-link" href="/search/?t=Engineering">
+          Engineering
+         </a>
+         <a class="topic-link" href="/search/?t=Science">
+          Science
+         </a>
+         <a class="topic-link" href="/search/?t=Physics">
+          Physics
+         </a>
+         <a class="more" href="/courses/12-803-quasi-balanced-circulations-in-oceans-and-atmospheres-fall-2009/">
+          + 7 more
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="cover-image">
+     <a href="/courses/12-803-quasi-balanced-circulations-in-oceans-and-atmospheres-fall-2009/">
+      <img alt="" height="130" src="/courses/12-803-quasi-balanced-circulations-in-oceans-and-atmospheres-fall-2009/f73f50329e4a594df6c0a221abeb1068_12-803f09.jpg"/>
+     </a>
+    </div>
+   </div>
+  </div>
+ </article>
+ <article aria-labelledby="search-result-6-title" aria-posinset="7" aria-setsize="-1" tabindex="0">
+  <div class="card learning-resource-card list-view">
+   <div class="card-contents">
+    <div class="lr-info search-result has-min-height">
+     <div class="lr-row resource-header">
+      <div class="resource-type">
+       18.305 | Graduate
+      </div>
+     </div>
+     <div class="lr-row course-title">
+      <a class="w-100" href="/courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004/">
+       <div>
+        <span id="search-result-6-title">
+         Advanced Analytic Methods in Science and Engineering
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem">
+        <div class="content">
+         <a href="/search/?q=%22Prof.%20Hung%20Cheng%22">
+          Prof. Hung Cheng
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem topics-list">
+        <div class="content">
+         <a class="topic-link" href="/search/?t=Mathematics">
+          Mathematics
+         </a>
+         <a class="topic-link" href="/search/?t=Applied%20Mathematics">
+          Applied Mathematics
+         </a>
+         <a class="topic-link" href="/search/?t=Differential%20Equations">
+          Differential Equations
+         </a>
+         <a class="more" href="/courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004/">
+          + 1 more
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="cover-image">
+     <a href="/courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004/">
+      <img alt="" height="130" src="/courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004/586808651e45ce8345333e457e66082c_18-305f04.jpg"/>
+     </a>
+    </div>
+   </div>
+  </div>
+ </article>
+ <article aria-labelledby="search-result-7-title" aria-posinset="8" aria-setsize="-1" tabindex="0">
+  <div class="card learning-resource-card list-view">
+   <div class="card-contents">
+    <div class="lr-info search-result has-min-height">
+     <div class="lr-row resource-header">
+      <div class="resource-type">
+       6.00SC | Undergraduate
+      </div>
+     </div>
+     <div class="lr-row course-title">
+      <a class="w-100" href="/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/">
+       <div>
+        <span id="search-result-7-title">
+         Introduction to Computer Science and Programming
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem">
+        <div class="content">
+         <a href="/search/?q=%22Prof.%20John%20Guttag%22">
+          Prof. John Guttag
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem topics-list">
+        <div class="content">
+         <a class="topic-link" href="/search/?t=Engineering">
+          Engineering
+         </a>
+         <a class="topic-link" href="/search/?t=Computer%20Science">
+          Computer Science
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="cover-image">
+     <a href="/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/">
+      <img alt="" height="130" src="/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/150f1db23890c18ca7b3bdea6d64be88_6-00scf11.jpg"/>
+     </a>
+    </div>
+   </div>
+  </div>
+ </article>
+ <article aria-labelledby="search-result-8-title" aria-posinset="9" aria-setsize="-1" tabindex="0">
+  <div class="card learning-resource-card list-view">
+   <div class="card-contents">
+    <div class="lr-info search-result has-min-height">
+     <div class="lr-row resource-header">
+      <div class="resource-type">
+       3.40J | Graduate
+      </div>
+     </div>
+     <div class="lr-row course-title">
+      <a class="w-100" href="/courses/3-40j-physical-metallurgy-fall-2009/">
+       <div>
+        <span id="search-result-8-title">
+         Physical Metallurgy
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem">
+        <div class="content">
+         <a href="/search/?q=%22Prof.%20Chris%20Schuh%22">
+          Prof. Chris Schuh
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem topics-list">
+        <div class="content">
+         <a class="topic-link" href="/search/?t=Engineering">
+          Engineering
+         </a>
+         <a class="topic-link" href="/search/?t=Materials%20Science%20and%20Engineering">
+          Materials Science and Engineering
+         </a>
+         <a class="topic-link" href="/search/?t=Metallurgical%20Engineering">
+          Metallurgical Engineering
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="cover-image">
+     <a href="/courses/3-40j-physical-metallurgy-fall-2009/">
+      <img alt="" height="130" src="/courses/3-40j-physical-metallurgy-fall-2009/c71ff632825c10a3cf0a2fb6e8d0ba35_3-40jf09.jpg"/>
+     </a>
+    </div>
+   </div>
+  </div>
+ </article>
+ <article aria-labelledby="search-result-9-title" aria-posinset="10" aria-setsize="-1" tabindex="0">
+  <div class="card learning-resource-card list-view">
+   <div class="card-contents">
+    <div class="lr-info search-result has-min-height">
+     <div class="lr-row resource-header">
+      <div class="resource-type">
+       5.111SC | Undergraduate
+      </div>
+     </div>
+     <div class="lr-row course-title">
+      <a class="w-100" href="/courses/5-111sc-principles-of-chemical-science-fall-2014/">
+       <div>
+        <span id="search-result-9-title">
+         Principles of Chemical Science
+        </span>
+       </div>
+      </a>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem">
+        <div class="content">
+         <a href="/search/?q=%22Prof.%20Catherine%20Drennan%22">
+          Prof. Catherine Drennan
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="lr-row subtitles">
+      <div class="lr-row subtitle">
+       <div class="lr-subtitle listitem topics-list">
+        <div class="content">
+         <a class="topic-link" href="/search/?t=Science">
+          Science
+         </a>
+         <a class="topic-link" href="/search/?t=Chemistry">
+          Chemistry
+         </a>
+         <a class="topic-link" href="/search/?t=Organic%20Chemistry">
+          Organic Chemistry
+         </a>
+         <a class="more" href="/courses/5-111sc-principles-of-chemical-science-fall-2014/">
+          + 2 more
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="cover-image">
+     <a href="/courses/5-111sc-principles-of-chemical-science-fall-2014/">
+      <img alt="" height="130" src="/courses/5-111sc-principles-of-chemical-science-fall-2014/afc26c2e5de67efafa76680f079d1254_5-111scf14.jpg"/>
+     </a>
+    </div>
+   </div>
+  </div>
+ </article>
+</section>
